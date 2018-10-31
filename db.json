@@ -1,13 +1,13 @@
 {
-  flipbooks:[
-    {name: "Principal",images:["https://firebasestorage.googleapis.com/v0/b/popbaby-67649.appspot.com/o/encartes%2Fmain1.jpg?alt=media&token=2ca97e0f-c8d3-44e6-af77-f8606713ecfa",
+  "flipbooks":[
+    {"name": "Principal","images":["https://firebasestorage.googleapis.com/v0/b/popbaby-67649.appspot.com/o/encartes%2Fmain1.jpg?alt=media&token=2ca97e0f-c8d3-44e6-af77-f8606713ecfa",
                           "https://firebasestorage.googleapis.com/v0/b/popbaby-67649.appspot.com/o/encartes%2Fmain2.jpg?alt=media&token=59575d72-b6e3-40a4-b888-da779e99ab66",
                           "https://firebasestorage.googleapis.com/v0/b/popbaby-67649.appspot.com/o/encartes%2Fmain3.jpg?alt=media&token=41b22fee-af6e-4d68-8615-2f327ce4ce1b",
                           "https://firebasestorage.googleapis.com/v0/b/popbaby-67649.appspot.com/o/encartes%2Fmain4.jpg?alt=media&token=02902bc2-038e-4919-bb2e-c817d0ea6784"]},
-    {name: "Carne",images:["https://firebasestorage.googleapis.com/v0/b/popbaby-67649.appspot.com/o/encartes%2Fcarne1.jpg?alt=media&token=5f6c7440-0658-4df9-b927-e0f6b5dd4d70",
+    {"name": "Carne","images":["https://firebasestorage.googleapis.com/v0/b/popbaby-67649.appspot.com/o/encartes%2Fcarne1.jpg?alt=media&token=5f6c7440-0658-4df9-b927-e0f6b5dd4d70",
                           "https://firebasestorage.googleapis.com/v0/b/popbaby-67649.appspot.com/o/encartes%2Fcarne2.jpg?alt=media&token=03302286-ddf9-4faf-ae41-2f3c5d2d4c80",
                           "https://firebasestorage.googleapis.com/v0/b/popbaby-67649.appspot.com/o/encartes%2Fcarne3.jpg?alt=media&token=bed4db6f-10be-4291-8fe2-c988f0b71883"]},
-    {name: "Azul",images:["https://firebasestorage.googleapis.com/v0/b/popbaby-67649.appspot.com/o/encartes%2Fazul1.jpg?alt=media&token=5910b10d-ad0b-4c29-9218-6f1f978a87a6",
+    {"name": "Azul","images":["https://firebasestorage.googleapis.com/v0/b/popbaby-67649.appspot.com/o/encartes%2Fazul1.jpg?alt=media&token=5910b10d-ad0b-4c29-9218-6f1f978a87a6",
                           "https://firebasestorage.googleapis.com/v0/b/popbaby-67649.appspot.com/o/encartes%2Fazul2.jpg?alt=media&token=bc27650f-0ea4-44ee-aeee-55e61d0816ce"]}
     ]
 }
